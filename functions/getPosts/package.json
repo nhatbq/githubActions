@@ -1,0 +1,14 @@
+{
+  "name": "getPosts",
+  "version": "1.0.0",
+  "description": "hoc github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nhatbq",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

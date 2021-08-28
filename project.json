@@ -1,0 +1,8 @@
+{
+  "name": "learnGithubActtions",
+  "description": "learn",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::955677185108:role/learnGithubActtions_lambda_function",
+  "environment": {}
+}
