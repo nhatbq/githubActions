@@ -1,0 +1,5 @@
+name: learnGitActions
+on:
+  push:
+    branches:
+      - master
